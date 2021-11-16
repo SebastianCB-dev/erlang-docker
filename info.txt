@@ -1,0 +1,6 @@
+-- 
+JuanD: if/else -- maps
+Sebastian:
+Variables, constantes
+Procesos
+
